@@ -165,15 +165,7 @@ I enjoy learning modern technologies, exploring AI research, and building projec
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:A855F7&height=3"/>
 
-# 🚀 Featured Projects
 
-<div align="center">
-
-<table>
-
-<tr>
-
-<td width="50%">
 
 ---
 
@@ -181,77 +173,99 @@ I enjoy learning modern technologies, exploring AI research, and building projec
 
 <div align="center">
 
-<p>
-These projects showcase my journey in software development, object-oriented programming, and Python application development. Each project reflects my focus on writing clean, efficient, and practical code while continuously improving my problem-solving skills.
-</p>
+### Building practical software solutions through AI, Python, and Object-Oriented Programming.
+
+Each project represents a step in my journey as an AI student, focusing on writing clean, efficient, and scalable code while solving real-world problems.
 
 </div>
 
 <br>
 
-<table>
+# 🍔 Digital Food Ordering System
 
-<tr>
+<img align="right" width="250" src="https://img.icons8.com/fluency/480/restaurant.png"/>
 
-<td width="50%" valign="top">
+### 📌 Overview
 
-## 🍔 Digital Food Ordering System
+A comprehensive **Object-Oriented Programming** application developed in **C++** that simulates a modern digital restaurant ordering system. The project demonstrates clean software architecture, modular programming, and practical implementation of core OOP concepts.
 
-A comprehensive **C++ Object-Oriented Programming** application that simulates a modern digital restaurant ordering experience.
+### ✨ Key Features
 
-### ✨ Features
-
-- 🍽️ Interactive food ordering system
+- 🍽️ Interactive food ordering experience
+- 📋 Smart menu management
 - 🧾 Automatic bill generation
-- 📋 Dynamic menu management
-- 💳 Order processing
-- 🧩 Object-Oriented design
-- 💻 Console-based user interface
+- 💳 Order processing system
+- 🧩 Object-Oriented Design
+- 💻 User-friendly console interface
 
-### 🛠️ Technologies
+### 🛠️ Technologies Used
 
-`C++` • `Object-Oriented Programming`
+<p>
 
-<br>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 
-<p align="center">
+<img src="https://img.shields.io/badge/OOP-7C3AED?style=for-the-badge"/>
+
+</p>
+
+### 🔗 Repository
+
+<p>
 
 <a href="https://github.com/SalmanSaeed-1/CS-112-project-OOPS---Digital-food-ordering-system">
-<img src="https://img.shields.io/badge/🔗%20Visit%20GitHub%20Repository-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/🚀%20Visit%20GitHub%20Repository-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 </p>
 
-</td>
-
-<td width="50%" valign="top">
-
-## 📈 Mathematical Solver & Graphing System
-
-A powerful **Python** application designed to solve mathematical expressions and visualize functions through beautiful graphs.
-
-### ✨ Features
-
-- 📊 Mathematical calculations
-- 📈 Graph plotting
-- 📉 Function visualization
-- 🔢 Numerical computations
-- ⚡ Fast and accurate calculations
-- 🖥️ User-friendly interface
-
-### 🛠️ Technologies
-
-`Python` • `NumPy` • `Matplotlib`
+---
 
 <br>
 
-<p align="center">
+# 📈 Mathematical Solver & Graphing System
+
+<img align="right" width="250" src="https://img.icons8.com/fluency/480/combo-chart.png"/>
+
+### 📌 Overview
+
+A feature-rich **Python** application capable of solving mathematical expressions while visualizing mathematical functions using dynamic graphs. It combines numerical computation with graphical analysis to provide an interactive mathematical toolkit.
+
+### ✨ Key Features
+
+- 📊 Mathematical calculations
+- 📈 Function plotting
+- 📉 Graph visualization
+- 🔢 Numerical computations
+- ⚡ Fast and accurate solving
+- 🎨 Interactive graph generation
+
+### 🛠️ Technologies Used
+
+<p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+</p>
+
+### 🔗 Repository
+
+<p>
 
 <a href="https://github.com/SalmanSaeed-1/Mathematical-Solver-and-Graphing-System-Python-Programming-Project-">
-<img src="https://img.shields.io/badge/🔗%20Visit%20GitHub%20Repository-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/🚀%20Visit%20GitHub%20Repository-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 </p>
+
+---
 
 </td>
 
