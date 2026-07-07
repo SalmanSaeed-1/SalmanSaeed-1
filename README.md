@@ -160,13 +160,6 @@ I enjoy learning modern technologies, exploring AI research, and building projec
 
 ---
 
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,40:8B5CF6,70:6366F1,100:4F46E5&height=120&section=footer"/>
-
-</div>
 
 <br>
 
@@ -182,43 +175,81 @@ I enjoy learning modern technologies, exploring AI research, and building projec
 
 <td width="50%">
 
-<h3 align="center">🍔 Digital Food Ordering System</h3>
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<p>
+These projects showcase my journey in software development, object-oriented programming, and Python application development. Each project reflects my focus on writing clean, efficient, and practical code while continuously improving my problem-solving skills.
+</p>
+
+</div>
+
+<br>
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🍔 Digital Food Ordering System
+
+A comprehensive **C++ Object-Oriented Programming** application that simulates a modern digital restaurant ordering experience.
+
+### ✨ Features
+
+- 🍽️ Interactive food ordering system
+- 🧾 Automatic bill generation
+- 📋 Dynamic menu management
+- 💳 Order processing
+- 🧩 Object-Oriented design
+- 💻 Console-based user interface
+
+### 🛠️ Technologies
+
+`C++` • `Object-Oriented Programming`
+
+<br>
 
 <p align="center">
 
 <a href="https://github.com/SalmanSaeed-1/CS-112-project-OOPS---Digital-food-ordering-system">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SalmanSaeed-1&repo=CS-112-project-OOPS---Digital-food-ordering-system&theme=tokyonight&hide_border=true"/>
-
+<img src="https://img.shields.io/badge/🔗%20Visit%20GitHub%20Repository-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-</p>
-
-<p align="center">
-
-A comprehensive Object-Oriented Programming project developed in C++ that simulates a modern digital restaurant ordering system. It features an intuitive menu-driven interface, efficient order management, bill generation, and demonstrates practical application of OOP principles such as encapsulation, inheritance, and modular design.
 
 </p>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3 align="center">📈 Mathematical Solver & Graphing System</h3>
+## 📈 Mathematical Solver & Graphing System
+
+A powerful **Python** application designed to solve mathematical expressions and visualize functions through beautiful graphs.
+
+### ✨ Features
+
+- 📊 Mathematical calculations
+- 📈 Graph plotting
+- 📉 Function visualization
+- 🔢 Numerical computations
+- ⚡ Fast and accurate calculations
+- 🖥️ User-friendly interface
+
+### 🛠️ Technologies
+
+`Python` • `NumPy` • `Matplotlib`
+
+<br>
 
 <p align="center">
 
 <a href="https://github.com/SalmanSaeed-1/Mathematical-Solver-and-Graphing-System-Python-Programming-Project-">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SalmanSaeed-1&repo=Mathematical-Solver-and-Graphing-System-Python-Programming-Project-&theme=tokyonight&hide_border=true"/>
-
+<img src="https://img.shields.io/badge/🔗%20Visit%20GitHub%20Repository-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-</p>
-
-<p align="center">
-
-A Python-powered mathematical toolkit capable of solving complex mathematical expressions while visualizing functions through graphs. The project combines numerical computation with data visualization, providing an interactive learning experience for mathematics and programming enthusiasts.
 
 </p>
 
@@ -227,6 +258,8 @@ A Python-powered mathematical toolkit capable of solving complex mathematical ex
 </tr>
 
 </table>
+
+---
 
 </div>
 
@@ -264,9 +297,9 @@ A Python-powered mathematical toolkit capable of solving complex mathematical ex
 
 # 🏆 GitHub Profile Trophy
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SalmanSaeed-1&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=SalmanSaeed-1&theme=algolia&no-frame=true&row=2&column=4"/>
+</p>
 
 </div>
 
@@ -274,11 +307,13 @@ A Python-powered mathematical toolkit capable of solving complex mathematical ex
 
 # 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SalmanSaeed-1&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SalmanSaeed-1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalmanSaeed-1&layout=compact&theme=tokyonight&hide_border=true"/>
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalmanSaeed-1&layout=compact&theme=transparent&hide_border=true"/>
+</p>
 
 </div>
 
@@ -304,52 +339,6 @@ A Python-powered mathematical toolkit capable of solving complex mathematical ex
 
 ---
 
-# 📅 Contribution Calendar
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/7C3AED/SalmanSaeed-1" />
-
-</div>
-
----
-
-# 💼 Professional Highlights
-
-<div align="center">
-
-✅ Artificial Intelligence Undergraduate
-
-✅ Machine Learning Enthusiast
-
-✅ Python Developer
-
-✅ C++ Developer
-
-✅ Object-Oriented Programming
-
-✅ Data Structures & Algorithms
-
-✅ Git & GitHub
-
-✅ Problem Solver
-
-✅ Lifelong Learner
-
-</div>
-
----
-
-# ⚡ Fun Facts
-
-- ⚽ Huge Cristiano Ronaldo fan
-- 💻 I enjoy turning ideas into software.
-- 🤖 Passionate about Artificial Intelligence.
-- 📚 Always learning something new.
-- 🚀 Building one project at a time.
-- 🌍 Dream: Build impactful AI solutions that solve real-world problems.
-
----
 
 # 💬 Favorite Quote
 
