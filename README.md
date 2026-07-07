@@ -257,14 +257,11 @@ A Python application developed to solve mathematical expressions while generatin
 ---
 
 ---
+## 📊 GitHub Metrics
 
-# 📊 GitHub Metrics
-
-<div align="center">
-
-<img src="./github-metrics.svg" width="100%" />
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SalmanSaeed-1/SalmanSaeed-1/main/github-metrics.svg" alt="GitHub Metrics" width="100%">
+</p>
 
 ---
 
