@@ -1,28 +1,28 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,30:6366F1,60:8B5CF6,100:A855F7&height=270&section=header&text=SALMAN%20SAEED&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Artificial%20Intelligence%20Student%20%7C%20Machine%20Learning%20Enthusiast&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=270&color=gradient&customColorList=12,20,24,27,30&text=SALMAN%20SAEED&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Artificial%20Intelligence%20Student%20|%20Machine%20Learning%20Enthusiast&descAlignY=58"/>
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Welcome to my GitHub!
+# 👋 Hi, I'm Salman Saeed
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Student;Machine+Learning+Enthusiast;Python+Developer;C%2B%2B+Developer;Problem+Solver;Future+AI+Engineer;Always+Learning+New+Things"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1200&color=7C3AED&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+Student;Machine+Learning+Enthusiast;Python+Developer;C%2B%2B+Developer;Building+Intelligent+Solutions;Always+Learning+Something+New"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=SalmanSaeed-1&label=Profile%20Views&color=7C3AED&style=for-the-badge"/>
+<a href="https://github.com/SalmanSaeed-1">
+<img src="https://img.shields.io/github/followers/SalmanSaeed-1?style=for-the-badge&logo=github&color=7C3AED"/>
+</a>
 
-<img src="https://img.shields.io/github/followers/SalmanSaeed-1?style=for-the-badge&color=6366F1"/>
+<a href="https://github.com/SalmanSaeed-1">
+<img src="https://komarev.com/ghpvc/?username=SalmanSaeed-1&style=for-the-badge&color=6366F1"/>
+</a>
 
-<img src="https://img.shields.io/github/stars/SalmanSaeed-1?affiliations=OWNER&style=for-the-badge&color=A855F7"/>
+<a href="https://www.linkedin.com/in/salman-saeed-9421b536b/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
 
-</div>
-
----
-
-<div align="center">
-
-### 🤖 AI • Machine Learning • Python • C++ • Data Science
-
-<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="350">
+<a href="mailto:salmansaeedch008@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
@@ -30,71 +30,37 @@
 
 # 💫 About Me
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2x3YTVjNWF4aTBiMzF4NGdqMHB2cGQwcDh4cHNyMWd4Yzd5a2tmMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMcB8XospGZO8UQq87/giphy.gif">
 
-### 👋 Hello, I'm Salman Saeed
+🎓 **Bachelor of Science in Artificial Intelligence**  
+**Ghulam Ishaq Khan Institute (GIKI)**  
+**Expected Graduation:** 2029
 
-I'm a passionate **Artificial Intelligence undergraduate at Ghulam Ishaq Khan Institute (GIKI)** who enjoys transforming ideas into intelligent software solutions.
+---
 
-My interests revolve around **Machine Learning, Artificial Intelligence, Data Science, and Software Development**. I believe that technology becomes meaningful when it solves real-world problems, and that's exactly what I strive to build.
+I am an **Artificial Intelligence undergraduate** passionate about building intelligent systems through **Machine Learning**, **Python**, and **C++**.
 
-Currently, I'm strengthening my foundations in Machine Learning while continuously improving my problem-solving abilities through programming, personal projects, and continuous learning.
+My goal is to develop AI-powered applications that solve real-world problems while continuously improving my programming, analytical thinking, and software engineering skills.
 
-I enjoy learning modern technologies, exploring AI research, and building projects that challenge me to think creatively and analytically.
+Currently, I am focused on expanding my expertise in **Machine Learning**, strengthening my problem-solving abilities, and building meaningful projects that showcase practical AI applications.
 
-<br>
+---
 
 ## 🚀 Current Focus
 
-- 🤖 Learning Machine Learning from DeepLearning.AI
-
-- 🐍 Mastering Python for AI
-
-- 💻 Improving C++ Programming Skills
-
-- 📊 Exploring Data Science
-
-- 🧠 Strengthening Problem Solving
-
-- ⚡ Preparing for AI Internships
-
-- 🌍 Building Real-World AI Projects
+- 🤖 Machine Learning
+- 🐍 Python Programming
+- 💻 C++ Development
+- 📊 Data Science
+- 🧠 Problem Solving
+- 🚀 AI Projects
+- 🏆 Competitive Programming
 
 ---
 
-# 🎓 Education
+# 🛠️ Tech Stack
 
-### 🏫 Ghulam Ishaq Khan Institute (GIKI)
-
-**Bachelor of Science in Artificial Intelligence**
-
-📍 Pakistan
-
-📅 Expected Graduation: **2029**
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/salman-saeed-9421b536b">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:salmansaeedch008@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/SalmanSaeed-1">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 💻 Languages
+### Languages
 
 <p align="center">
 
@@ -102,17 +68,21 @@ I enjoy learning modern technologies, exploring AI research, and building projec
 
 </p>
 
----
+### Libraries
 
-# 🛠️ Tools & Technologies
+<p align="center">
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="48"/>
+
+</p>
+
+### Tools
 
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-
-</p>
-
-<p align="center">
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter,colab"/>
 
@@ -120,95 +90,71 @@ I enjoy learning modern technologies, exploring AI research, and building projec
 
 ---
 
-# 📚 Libraries
-
-<p align="center">
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="55"/>
-
-</p>
-
----
-
-# 🎯 Currently Learning
+# 📚 Currently Learning
 
 ```text
-██████████░░░░░░░░░░  Python for AI
+Machine Learning          ██████████░░░░░░ 60%
 
-████████░░░░░░░░░░░░  Machine Learning
+Python for AI             █████████████░░ 75%
 
-███████░░░░░░░░░░░░░  Data Science
+Data Science              ████████░░░░░░░ 50%
 
-██████░░░░░░░░░░░░░░ Competitive Programming
+Competitive Programming   ██████░░░░░░░░░ 40%
 
-█████░░░░░░░░░░░░░░░ Git & GitHub
-
-█████░░░░░░░░░░░░░░░ Prompt Engineering
+Git & GitHub              ███████████░░░░ 65%
 ```
 
 ---
 
-# 💡 Philosophy
-
-> **"Success isn't about being the smartest person in the room. It's about being the person who never stops learning."**
+> ### 💡 *"Building intelligent systems one project at a time."*
 
 ---
 
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:A855F7&height=3"/>
-
-
-
 ---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
 
 # 🚀 Featured Projects
 
 <div align="center">
 
-### Building practical software solutions through AI, Python, and Object-Oriented Programming.
+### Every project is a step towards becoming a better AI Engineer.
 
-Each project represents a step in my journey as an AI student, focusing on writing clean, efficient, and scalable code while solving real-world problems.
+I enjoy building projects that strengthen my understanding of programming, software engineering, and artificial intelligence while solving practical problems.
 
 </div>
 
 <br>
 
-# 🍔 Digital Food Ordering System
+## 🍔 Digital Food Ordering System
 
-<img align="right" width="250" src="https://img.icons8.com/fluency/480/restaurant.png"/>
+<img align="right" width="220" src="https://img.icons8.com/fluency/480/restaurant-menu.png"/>
 
-### 📌 Overview
+### 📖 Overview
 
-A comprehensive **Object-Oriented Programming** application developed in **C++** that simulates a modern digital restaurant ordering system. The project demonstrates clean software architecture, modular programming, and practical implementation of core OOP concepts.
+A comprehensive **Object-Oriented Programming** project developed in **C++** that simulates a modern restaurant ordering system. The application demonstrates clean software architecture while implementing essential OOP concepts such as encapsulation, inheritance, abstraction, and modular programming.
 
-### ✨ Key Features
+### ✨ Features
 
-- 🍽️ Interactive food ordering experience
+- 🍽 Interactive restaurant ordering
 - 📋 Smart menu management
+- 🛒 Order management system
 - 🧾 Automatic bill generation
-- 💳 Order processing system
-- 🧩 Object-Oriented Design
-- 💻 User-friendly console interface
+- 💳 Payment simulation
+- 💻 Console-based interface
+- ⚙ Modular Object-Oriented Design
 
-### 🛠️ Technologies Used
+### 🛠 Technologies
 
 <p>
 
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/OOP-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Object--Oriented%20Programming-7C3AED?style=for-the-badge"/>
 
 </p>
 
-### 🔗 Repository
+### 🔗 Explore Repository
 
 <p>
 
@@ -224,24 +170,25 @@ A comprehensive **Object-Oriented Programming** application developed in **C++**
 
 <br>
 
-# 📈 Mathematical Solver & Graphing System
+## 📈 Mathematical Solver & Graphing System
 
-<img align="right" width="250" src="https://img.icons8.com/fluency/480/combo-chart.png"/>
+<img align="right" width="220" src="https://img.icons8.com/fluency/480/combo-chart.png"/>
 
-### 📌 Overview
+### 📖 Overview
 
-A feature-rich **Python** application capable of solving mathematical expressions while visualizing mathematical functions using dynamic graphs. It combines numerical computation with graphical analysis to provide an interactive mathematical toolkit.
+A Python application developed to solve mathematical expressions while generating graphical visualizations of mathematical functions. The project combines computation and visualization to create an interactive mathematical toolkit.
 
-### ✨ Key Features
+### ✨ Features
 
-- 📊 Mathematical calculations
 - 📈 Function plotting
 - 📉 Graph visualization
-- 🔢 Numerical computations
-- ⚡ Fast and accurate solving
-- 🎨 Interactive graph generation
+- 🔢 Mathematical calculations
+- ⚡ Numerical computation
+- 📊 Interactive graphs
+- 🧮 Equation solving
+- 🎨 User-friendly interface
 
-### 🛠️ Technologies Used
+### 🛠 Technologies
 
 <p>
 
@@ -253,7 +200,7 @@ A feature-rich **Python** application capable of solving mathematical expression
 
 </p>
 
-### 🔗 Repository
+### 🔗 Explore Repository
 
 <p>
 
@@ -267,24 +214,14 @@ A feature-rich **Python** application capable of solving mathematical expression
 
 ---
 
-</td>
-
-</tr>
-
-</table>
-
----
-
-</div>
-
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
 
 # 📜 Certifications
 
 <div align="center">
 
-| Certificate | Provider |
-|------------|-----------|
+| 🎓 Certificate | 🏢 Issued By |
+|:---------------|:-------------|
 | 🤖 Google AI Essentials | Google |
 | 🐍 Get Started with Python | Google |
 | 🌐 Git & GitHub | Google |
@@ -298,36 +235,12 @@ A feature-rich **Python** application capable of solving mathematical expression
 <div align="center">
 
 | Goal | Progress |
-|------|----------|
-| 🤖 Machine Learning | █████████░ |
-| 🚀 Build AI Projects | ████████░░ |
-| 🏆 Competitive Programming | ███████░░░ |
-| 📚 Deep Learning | ███░░░░░░░ |
-| 🌍 Open Source Contribution | ███░░░░░░░ |
-
-</div>
-
----
-
-# 🏆 GitHub Profile Trophy
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SalmanSaeed-1&theme=algolia&no-frame=true&row=2&column=4"/>
-</p>
-
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SalmanSaeed-1&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
-</p>
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalmanSaeed-1&layout=compact&theme=transparent&hide_border=true"/>
-</p>
+|:------|:--------:|
+| 🤖 Machine Learning | ██████████░░ |
+| 🚀 Build AI Projects | █████████░░░ |
+| 💻 Competitive Programming | ███████░░░░ |
+| 📚 Deep Learning | █████░░░░░░ |
+| 🌍 Open Source Contribution | ████░░░░░░ |
 
 </div>
 
@@ -335,76 +248,70 @@ A feature-rich **Python** application capable of solving mathematical expression
 
 # 🔥 GitHub Streak
 
-<div align="center">
+<p align="center">
 
 <img src="https://streak-stats.demolab.com?user=SalmanSaeed-1&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
 # 📈 Contribution Graph
 
-<div align="center">
+<p align="center">
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SalmanSaeed-1&theme=tokyo-night&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
+# 🌟 My Development Journey
 
-# 💬 Favorite Quote
-
-<div align="center">
-
-### "The best way to predict the future is to create it."
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=40"/>
-
-⭐ **If you like my work, consider following my GitHub profile!**
-
-</div>
-
----
-
-# 💙 Thank You for Visiting
-
-<div align="center">
-
-If you like my work and projects,
-
-⭐ Star my repositories
-
-🍴 Fork interesting projects
-
-🤝 Connect with me on LinkedIn
-
-💡 Let's collaborate on AI and Machine Learning!
-
-</div>
+```text
+2025 ─────────────── Learned C++ & OOP
+        │
+        ├── Python Programming
+        │
+        ├── Google AI Essentials
+        │
+2026 ───┼── Machine Learning
+        │
+        ├── AI Projects
+        │
+        ├── Competitive Programming
+        │
+        ▼
+Future ─ Become an AI Engineer
+```
 
 ---
 
-# 📬 Open to Opportunities
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/SalmanSaeed-1">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/salman-saeed-9421b536b/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:salmansaeedch008@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💬 Quote
 
 <div align="center">
 
-🎯 AI Internships
-
-💻 Software Engineering Internships
-
-🤖 Machine Learning Projects
-
-🌍 Open Source Collaboration
-
-📚 Research Opportunities
+### 💡 "Success isn't about knowing everything. It's about never stopping the pursuit of knowledge."
 
 </div>
 
@@ -412,10 +319,14 @@ If you like my work and projects,
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=170&color=0:4F46E5,40:6366F1,70:8B5CF6,100:A855F7"/>
+## ⭐ Thank You for Visiting My Profile!
 
-<h3>Thank you for visiting my profile 💜</h3>
+If you like my projects, consider giving them a ⭐ on GitHub.
 
-<p><b>Let's build something amazing together!</b></p>
+I am always open to collaborating on **Artificial Intelligence**, **Machine Learning**, and **Open Source** projects.
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient"/>
 
 </div>
