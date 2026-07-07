@@ -260,7 +260,7 @@ A Python application developed to solve mathematical expressions while generatin
 ## 📊 GitHub Metrics
 
 <p align="center">
-  <img src="./github-metrics.svg" width="60%">
+  <img src="./github-metrics.svg" width="65%">
 </p>
 
 ---
